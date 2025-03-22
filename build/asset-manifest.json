@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/mbti_test_project_final/static/css/main.31d6cfe0.css",
+    "main.js": "/mbti_test_project_final/static/js/main.c14ef720.js",
+    "index.html": "/mbti_test_project_final/index.html",
+    "main.c14ef720.js.map": "/mbti_test_project_final/static/js/main.c14ef720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c14ef720.js"
+  ]
+}
